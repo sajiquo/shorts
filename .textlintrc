@@ -1,0 +1,12 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-sajiquo": {
+      "textlint-rule-general-novel-style-ja": {
+        "max_arabic_numeral_digits": false
+      }
+    }
+  }
+}
