@@ -8,7 +8,7 @@
         "fix": "textlint --fix ."
     },
     "devDependencies": {
-        "textlint": "12.2.2",
+        "textlint": "12.5.1",
         "textlint-filter-rule-comments": "1.2.2",
         "textlint-rule-preset-sajiquo": "1.1.0"
     }
